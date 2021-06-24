@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@munirabhopali1" target="blank"><img src="https://img.shields.io/twitter/follow/@munirabhopali1?logo=twitter&style=for-the-badge" alt="@munirabhopali1" /></a> </p>
 
-- 🌱 I’m currently learning **html,css,javascript,jQuery**
+- 🌱 I’m currently learning **css**
 
 - 💬 Ask me about **html,css,illustrator,photoshop**
 
